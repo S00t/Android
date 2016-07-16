@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Playfaire</string>
+    <string name="encode">Encode</string>
+    <string name="decode">Decode</string>
+</resources>
